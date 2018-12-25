@@ -1,1 +1,1 @@
-# Python
+# Python 기본기 
